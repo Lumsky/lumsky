@@ -10,3 +10,5 @@ Here's a quick summary about me:
 😊 I’m looking for help with open source projects, hackathons, and opportunities.
 💼 Job interests: DevOps, Cloud DevOps. AWS Cloud.
 📫 You can view my resume and contact me by emailing lumibabs1@gmail.com.
+
+Thanks for reacing, and I look forward to connecting with you!
